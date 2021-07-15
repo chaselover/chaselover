@@ -3,7 +3,7 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=SeungJoo&nbsp;Han&fontAlign=70&fontAlignY=40&color=gradient)
 
-<p align = "center"> 👉🏻 The technology I interested in 👈🏻 </p> 
+<p align = "center"> 👉🏻 The technology I'm interested in 👈🏻 </p> 
 
 <div align = "center"> Front Tech
  <div>
