@@ -1,5 +1,5 @@
 
- [![solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=samuel95)](https://solved.ac/profile/samuel95)
+ [![solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=samuel95)](https://solved.ac/profile/wannabe)
  
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chaselover)](https://github.com/anuraghazra/github-readme-stats)
 
