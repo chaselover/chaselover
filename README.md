@@ -1,8 +1,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="github-markdown.css">
 
-<h3 align = "center" >💻 My Tech 💻</h3> 
-<p align = "center"> 👉🏻 The technology I use recently 👈🏻 </p> 
+<p align = "center"> 👉🏻 The technology I interested in 👈🏻 </p> 
 
 <div align = "center"> Front Tech
  <div>
@@ -10,11 +9,15 @@
  </div>
 </div>
 
+---
+
 <div align = "center"> Back End Tech
  <div> 
   <img src="https://img.shields.io/badge/Node.js-5455FE?style=flat-square&logo=Node.js&logoColor=white"/> 
  </div>
 </div>
+
+---
 
 <div align = "center"> Etc
  <div>
