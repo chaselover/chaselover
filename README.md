@@ -12,13 +12,13 @@
 
 <div align = "center"> Back End Tech
  <div> 
-  <img src="https://img.shields.io/badge/Node.js-5455FE?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-00B388?style=flat-square&logo=MongoDB&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Node.js-5455FE?style=flat-square&logo=Node.js&logoColor=white"/> 
  </div>
 </div>
 
 <div align = "center"> Etc
  <div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Ant Design-0170FE?style=flat-square&logo=Ant-Design&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
  </div>
 </div> 
 
