@@ -1,8 +1,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="github-markdown.css">
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=350&section=header&text=hyunbeanOhh%&fontSize=90)
-
 <h3 align = "center" >💻 My Tech 💻</h3> 
 <p align = "center"> 👉🏻 The technology I use recently 👈🏻 </p> 
 
