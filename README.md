@@ -6,13 +6,13 @@
 
 <div align = "center"> Front Tech
  <div>
-  <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/Javascript-important?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/HTML5-yellow?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/CSS3-lightgray?style=flat-square&logo=CSS3&logoColor=white"/></br><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/Javascript-important?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/HTML5-yellow?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/CSS3-lightgray?style=flat-square&logo=CSS3&logoColor=white"/></br><img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-40AEF0?style=flat-square&logo=Redux&logoColor=white"/><br/>
  </div>
 </div>
 
 <div align = "center"> Back End Tech
  <div> 
-  <img src="https://img.shields.io/badge/Node.js-5455FE?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-00B388?style=flat-square&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-40AEF0?style=flat-square&logo=Redux&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/Node.js-5455FE?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-00B388?style=flat-square&logo=MongoDB&logoColor=white"/> 
  </div>
 </div>
 
