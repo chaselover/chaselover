@@ -1,5 +1,10 @@
 # My Profile >______<
 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://devlibrary00108.tistory.com)](https://devlibrary00108.tistory.com)
+	
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gkstmdwn234@gmail.com)](mailto:gkstmdwn234@gmail.com)
+
 
 <div align=center>
 	
