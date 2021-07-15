@@ -1,6 +1,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="github-markdown.css">
+
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=350&section=header&text=hyunbeanOhh%&fontSize=90)
+
 <h3 align = "center" >💻 My Tech 💻</h3> 
 <p align = "center"> 👉🏻 The technology I use recently 👈🏻 </p> 
 
@@ -21,3 +23,11 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Ant Design-0170FE?style=flat-square&logo=Ant-Design&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
  </div>
 </div> 
+
+<h3 align = "center"> 🙌🏻 Me 🙌🏻 <h3>
+  
+<p align = "center">
+<a href="https://chairking-95.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Micro.blog&logoColor=white&link=내링크"/><img src="https://img.shields.io/badge/Mail-9E9E9E?style=flat-square&logo=Mail.Ru&logoColor=white"/><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunbeanohh%2Fhit-counter&count_bg=%000000&title_bg=%343664&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+ 
+![chaselover's github stats](https://github-readme-stats.vercel.app/api?username=chaselover&show_icons=true&theme=radical)[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wannabe)](https://solved.ac/wannabe)
+</p>
