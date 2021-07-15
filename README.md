@@ -1,4 +1,4 @@
-# My GitHub ProFile >______<
+# My Profile >______<
 
 
 <div align=center>
