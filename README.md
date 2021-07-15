@@ -1,7 +1,14 @@
+# Hi~ I'm SeungJoo Han
 
- [![solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wannabe)](https://solved.ac/profile/wannabe)
+
+ 
+## GitHub
  
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chaselover)](https://github.com/anuraghazra/github-readme-stats)
+ 
+## BOJ
+ 
+ [![solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wannabe)](https://solved.ac/profile/wannabe)
 
 <div align=center display=flex>
 
