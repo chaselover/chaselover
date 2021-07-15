@@ -27,7 +27,5 @@
   <p align = "center">
   <a href="https://devlibrary00108.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Micro.blog&logoColor=white&link=내링크"/></a> <a href=https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gkstmdwn234@gmail.com> <img src="https://img.shields.io/badge/Mail-9E9E9E?style=flat-square&logo=Mail.Ru&logoColor=white"/></a> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchaselover%2Fhit-counter&count_bg=%000000&title_bg=%343664&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
  
-  ![chaselover's github stats](https://github-readme-stats.vercel.app/api?username=chaselover&show_icons=true&theme=vision-friendly-dark)
-   
-   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wannabe)](https://solved.ac/wannabe)
+  ![chaselover's github stats](https://github-readme-stats.vercel.app/api?username=chaselover&show_icons=true&theme=vision-friendly-dark)[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wannabe)](https://solved.ac/wannabe)
   </p>
