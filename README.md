@@ -1,7 +1,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="github-markdown.css">
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=SeungJoo&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=SeungJoo  Han&fontAlign=80&fontAlignY=40&color=gradient)
 
 <p align = "center"> 👉🏻 The technology I interested in 👈🏻 </p> 
 
