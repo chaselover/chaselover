@@ -20,22 +20,22 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
  </div>
 </div> 
+<br>
+ <br>
 
 
 ---
-
-
 <h3 align = "center"> 🏻 Me🏻 <h3>
 
   <p align = "center">
   <a href="https://devlibrary00108.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Micro.blog&logoColor=white&link=내링크"/></a> <a href=https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gkstmdwn234@gmail.com> <img src="https://img.shields.io/badge/Mail-9E9E9E?style=flat-square&logo=Mail.Ru&logoColor=white"/></a> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchaselover%2Fhit-counter&count_bg=%000000&title_bg=%343664&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
  </p>
- <br>
- <br>
  
  
  ---
  
+ <br>
+ <br>
  <p align=center>
  <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
