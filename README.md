@@ -1,3 +1,6 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="github-markdown.css">
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=SeungJoo&nbsp;Han&fontAlign=70&fontAlignY=40&color=gradient)
 <p align = "center"> 👉🏻 The technology I'm interested in 👈🏻 </p> 
 <div align = "center"> Front Tech
  <div>
@@ -27,4 +30,3 @@
  
   ![chaselover's github stats](https://github-readme-stats.vercel.app/api?username=chaselover&show_icons=true&theme=vue)[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wannabe)](https://solved.ac/wannabe)
   </p>
- 
