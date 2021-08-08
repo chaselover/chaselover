@@ -5,7 +5,7 @@
   <img src="/header.png"/>
  </div>
  <br> <br> <br>
-<p align = "center"> 👉🏻 The technology I'm interested in 👈🏻 </p> 
+<p align = "center"> 🍀 The technology I'm interested in 🍀 </p> 
 <div align = "center"> Frontend Tech
  <div>
   <img src="https://img.shields.io/badge/Javascript-important?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/HTML5-yellow?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/CSS3-lightgray?style=flat-square&logo=CSS3&logoColor=white"/></br><img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/><img src="https://img.shields.io/badge/Redux-40AEF0?style=flat-square&logo=Redux&logoColor=white"/><br/>
@@ -26,7 +26,7 @@
  <br>
 
 ---
-<h3 align = "center">🍀Me🍀<h3>
+<h3 align = "center"> 🍀 Me 🍀 <h3>
 
   <p align = "center">
   <a href="https://devlibrary00108.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Micro.blog&logoColor=white&link=내링크"/></a> <a href="gkstmdwn234@gmail.com"> <img src="https://img.shields.io/badge/Mail-9E9E9E?style=flat-square&logo=Mail.Ru&logoColor=white"/></a> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchaselover%2Fhit-counter&count_bg=%000000&title_bg=%343664&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
