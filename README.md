@@ -39,10 +39,10 @@
  <p align=center>
  <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="left" width=407 src="https://github-readme-stats.vercel.app/api?username=chaselover&show_icons=true&theme=vue" />
+      <img align="left" width=500 src="https://github-readme-stats.vercel.app/api?username=chaselover&show_icons=true&theme=vue" />
     </a>
    <a href="https://solved.ac/wannabe" title="Go to Source">
-      <img align="right" width=330 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wannabe" alt="Solved.ac프로필" />
+      <img align="right" width=410 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wannabe" alt="Solved.ac프로필" />
     </a>
 </div>
  </p>
