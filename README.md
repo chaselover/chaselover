@@ -21,8 +21,6 @@
  </div>
 </div> 
 <br>
- <br>
-
 
 ---
 <h3 align = "center"> 🏻 Me🏻 <h3>
@@ -34,8 +32,6 @@
  
  ---
  
- <br>
- <br>
  <p align=center>
  <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
