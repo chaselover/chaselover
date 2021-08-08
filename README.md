@@ -4,7 +4,7 @@
  <div>
   <img src="/header.png"/>
  </div>
- 
+ <br> <br> <br>
 <p align = "center"> 👉🏻 The technology I'm interested in 👈🏻 </p> 
 <div align = "center"> Front Tech
  <div>
@@ -22,6 +22,7 @@
  </div>
 </div> 
 <br>
+ <br>
 
 ---
 <h3 align = "center"> 🏻 Me🏻 <h3>
