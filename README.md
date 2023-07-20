@@ -56,16 +56,5 @@
    <a href="gkstmdwn234@gmail.com"> <img src="https://img.shields.io/badge/Mail-9E9E9E?style=flat-square&logo=Mail.Ru&logoColor=white"/></a> 
  </p>
  
- 
- ---
- 
- <p align=center>
- <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="center" width=450 src="https://github-readme-stats.vercel.app/api?username=chaselover&show_icons=true&theme=vue" />
-    </a>
-   <a href="https://solved.ac/wannabe" title="Go to Source">
-      <img align="center" width=360 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wannabe" alt="Solved.ac프로필" />
-    </a>
-</div>
+
  </p>
