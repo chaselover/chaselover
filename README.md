@@ -48,13 +48,4 @@
 <br>
  <br>
 
----
-<h3 align = "center"> 🍀 Me 🍀 <h3>
-
-  <p align = "center">
-  <a href="https://devlibrary00108.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Micro.blog&logoColor=white&link=내링크"/></a> 
-   <a href="gkstmdwn234@gmail.com"> <img src="https://img.shields.io/badge/Mail-9E9E9E?style=flat-square&logo=Mail.Ru&logoColor=white"/></a> 
- </p>
- 
-
  </p>
